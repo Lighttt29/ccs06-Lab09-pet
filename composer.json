@@ -1,0 +1,17 @@
+{
+    "name": "Lighttt29/ccs06-load-update-delete",
+    "require": {
+        "vlucas/phpdotenv": "^5.5"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "John Hendrick T. Urquiola",
+            "email": "urquiola.johnhendrick@auf.edu.ph"
+        }
+    ]
+}
